@@ -35,9 +35,9 @@ Our whole team comprising of maintainers. source developers and designers can be
 [IMG]https://raw.githubusercontent.com/StyxProject/stuff/master/art/installation.png[/IMG]
 
 
-[B]1.[/B] Download the ROM, Magisk (Optional).
+[B]1.[/B] Download the ROM, and Magisk if you want root.
 [B]2.[/B] Wipe System, Data, Dalvik, Cache.
-[B]3.[/B] Flash the ROM, GApps (Optional), Magisk (Optional).
+[B]3.[/B] Flash the ROM, and Magisk if you want root.
 [B]4.[/B] Reboot and Enjoy.
 
 [B]GAPPS ARE PREINCLUDED[/B]
@@ -60,5 +60,3 @@ We would like to thank the following ROMs, because if they weren't here, we coul
 [URL='https://github.com/StyxProject-Devices']Device Source[/URL]
 [URL='your kernel source link here']Kernel Source[/URL][/SIZE][/CENTER]
 
-[CENTER][SIZE=6]Donate:[/SIZE]
-[SIZE=4][URL='https://paypal.me/malviml']PayPal[/URL][/SIZE][/CENTER]
